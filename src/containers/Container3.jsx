@@ -1,7 +1,7 @@
 import React from "react";
-import styles from "./Container2.module.css";
+import styles from "./Container3.module.css";
 
-export default function Container2() {
+export default function Container3() {
   return (
     <section className={styles.section}>
       <div className={styles.container}>

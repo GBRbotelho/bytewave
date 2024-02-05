@@ -8,7 +8,7 @@ export default function Navbar() {
       <div className={styles.menu}>
         <ul>
           <li>HOME</li>
-          <li>SERVIÇÕS</li>
+          <li>SERVIÇOS</li>
           <li>CLIENTES</li>
           <li>SOBRE</li>
         </ul>
