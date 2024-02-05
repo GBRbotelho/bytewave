@@ -1,0 +1,49 @@
+.section {
+  display: flex;
+  width: 100vw;
+  height: 565px;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 1920px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+}
+.title {
+  font-size: 45px;
+  color: #5271ff;
+}
+
+.divCards {
+  color: #003070;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.card {
+  width: 357px;
+  height: 268px;
+}
+
+.card div {
+  width: 115px;
+  height: 80px;
+  background-color: #003070;
+}
+
+.card h2 {
+  font-size: 37px;
+  margin: 0;
+}
+
+.card p {
+  font-size: 30px;
+  margin: 0;
+}
