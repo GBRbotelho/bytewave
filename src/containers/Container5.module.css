@@ -1,0 +1,73 @@
+.section {
+  color: #5271ff;
+  width: 1920px;
+}
+
+.title {
+  width: 100%;
+  height: 130px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0px -1px 30px -10px rgba(0, 0, 0, 0.1);
+}
+
+.title h2 {
+  font-size: 38px;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  height: 260px;
+  width: 1920px;
+  box-shadow: inset 0px -60px 50px -10px rgba(0, 0, 0, 0.1);
+}
+
+/* CONTEUDO */
+
+.titleCard {
+  flex: 33%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-right: 4px solid;
+  border-color: #5271ff;
+}
+
+.titleCard2 {
+  flex: 33%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-left: 4px solid;
+  border-color: #5271ff;
+}
+
+.contentTitle {
+  display: flex;
+}
+
+.textTitle h2 {
+  margin: 0px;
+  font-size: 48px;
+}
+
+.textTitle p {
+  margin: 0px;
+  margin-top: -20px;
+  font-size: 30px;
+}
+
+.textCard {
+  flex: 67%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #003070;
+}
+
+.textCard p {
+  width: 1010px;
+  font-size: 30px;
+}
