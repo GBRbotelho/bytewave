@@ -1,6 +1,9 @@
 .section {
   color: #5271ff;
   width: 1920px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .title {
