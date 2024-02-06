@@ -40,3 +40,203 @@
 .button img {
   width: 60px;
 }
+
+@media (max-width: 1830px) {
+  .section {
+    height: 109px;
+  }
+
+  .title {
+    width: 751px;
+  }
+
+  .title h2 {
+    font-size: 33px;
+  }
+
+  .button button {
+    width: 748px;
+    height: 71px;
+    font-size: 42px;
+    border-radius: 20px;
+  }
+
+  .button img {
+    width: 57px;
+  }
+}
+
+@media (max-width: 1730px) {
+  .section {
+    height: 103px;
+  }
+
+  .title {
+    width: 700px;
+  }
+
+  .title h2 {
+    font-size: 31px;
+  }
+
+  .button button {
+    width: 711px;
+    height: 67px;
+    font-size: 40px;
+    border-radius: 19px;
+  }
+
+  .button img {
+    width: 54px;
+  }
+}
+
+@media (max-width: 1650px) {
+  .section {
+    height: 98px;
+  }
+
+  .title {
+    width: 687px;
+  }
+
+  .title h2 {
+    font-size: 30px;
+  }
+
+  .button button {
+    width: 675px;
+    height: 64px;
+    font-size: 38px;
+    border-radius: 18px;
+  }
+
+  .button img {
+    width: 51px;
+  }
+}
+
+@media (max-width: 1550px) {
+  .section {
+    height: 92px;
+  }
+
+  .title {
+    width: 630px;
+  }
+
+  .title h2 {
+    font-size: 28px;
+  }
+
+  .button button {
+    width: 635px;
+    height: 60px;
+    font-size: 36px;
+    border-radius: 17px;
+  }
+
+  .button img {
+    width: 48px;
+  }
+}
+
+@media (max-width: 1450px) {
+  .section {
+    height: 87px;
+  }
+
+  .title {
+    width: 590px;
+  }
+
+  .title h2 {
+    font-size: 26px;
+  }
+
+  .button button {
+    width: 596px;
+    height: 56px;
+    font-size: 34px;
+    border-radius: 16px;
+  }
+
+  .button img {
+    width: 45px;
+  }
+}
+
+@media (max-width: 1350px) {
+  .section {
+    height: 81px;
+  }
+
+  .title {
+    width: 540px;
+  }
+
+  .title h2 {
+    font-size: 24px;
+  }
+
+  .button button {
+    width: 555px;
+    height: 52px;
+    font-size: 31px;
+    border-radius: 15px;
+  }
+
+  .button img {
+    width: 42px;
+  }
+}
+
+@media (max-width: 1250px) {
+  .section {
+    height: 74px;
+  }
+
+  .title {
+    width: 500px;
+  }
+
+  .title h2 {
+    font-size: 22px;
+  }
+
+  .button button {
+    width: 510px;
+    height: 48px;
+    font-size: 29px;
+    border-radius: 14px;
+  }
+
+  .button img {
+    width: 38px;
+  }
+}
+
+@media (max-width: 1150px) {
+  .section {
+    height: 68px;
+  }
+
+  .title {
+    width: 460px;
+  }
+
+  .title h2 {
+    font-size: 20px;
+  }
+
+  .button button {
+    width: 469px;
+    height: 44px;
+    font-size: 26px;
+    border-radius: 13px;
+  }
+
+  .button img {
+    width: 35px;
+  }
+}
