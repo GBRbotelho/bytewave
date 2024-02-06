@@ -10,7 +10,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 750px;
+  height: 100%;
   width: 1920px;
 }
 
@@ -71,45 +71,45 @@
 
 .cardImgs {
   display: flex;
-  gap: 13px;
+  gap: 15px;
 }
 
 .divImgs1 {
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 15px;
 }
 
 .divImgs2 {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 15px;
 }
 
 .img1 {
-  width: 277px;
-  height: 325px;
+  width: 280px;
+  height: 350px;
   background-color: #003070;
   border-radius: 22px;
 }
 
 .img2 {
-  width: 277px;
-  height: 162px;
+  width: 280px;
+  height: 180px;
   background-color: #003070;
   border-radius: 22px;
 }
 
 .img3 {
-  width: 277px;
-  height: 99px;
+  width: 280px;
+  height: 110px;
   background-color: #003070;
   border-radius: 22px;
 }
 
 .img4 {
-  width: 277px;
-  height: 393px;
+  width: 280px;
+  height: 420px;
   background-color: #003070;
   border-radius: 22px;
 }
@@ -117,7 +117,7 @@
 .divBottom {
   background-color: #003070;
   border-radius: 16px;
-  width: 570px;
+  width: 575px;
   height: 81px;
   display: flex;
   justify-content: space-evenly;
@@ -132,4 +132,562 @@
 
 .divBottom img {
   width: 55px;
+}
+
+@media (max-width: 1820px) {
+  .container {
+    width: 1820px;
+  }
+}
+
+@media (max-width: 1720px) {
+  .container {
+    width: 1720px;
+  }
+
+  .div1 {
+    margin-right: -38px;
+  }
+
+  .div2 {
+    margin-left: -38px;
+  }
+
+  .cardDiv1 {
+    width: 859px;
+  }
+
+  .cardDiv1 h1 {
+    font-size: 61px;
+    margin: 0;
+  }
+
+  .cardDiv1 p {
+    font-size: 32px;
+    margin: 0;
+  }
+
+  .cardDiv1 button {
+    margin-top: 28px;
+    font-size: 28px;
+    padding: 11px 54px;
+    border: 6px solid;
+    border-radius: 9px;
+  }
+
+  .cardDiv2 {
+    width: 541px;
+    height: 578px;
+    gap: 15px;
+  }
+
+  .cardImgs {
+    gap: 15px;
+  }
+
+  .divImgs1 {
+    gap: 15px;
+  }
+
+  .divImgs2 {
+    gap: 15px;
+  }
+
+  .img1 {
+    width: 266px;
+    height: 332px;
+    background-color: #003070;
+    border-radius: 21px;
+  }
+
+  .img2 {
+    width: 266px;
+    height: 171px;
+    background-color: #003070;
+    border-radius: 21px;
+  }
+
+  .img3 {
+    width: 266px;
+    height: 105px;
+    background-color: #003070;
+    border-radius: 21px;
+  }
+
+  .img4 {
+    width: 266px;
+    height: 398px;
+    background-color: #003070;
+    border-radius: 21px;
+  }
+
+  .divBottom {
+    border-radius: 16px;
+    width: 547px;
+    height: 77px;
+  }
+
+  .divBottom h1 {
+    font-size: 43px;
+    margin-left: 29px;
+  }
+
+  .divBottom img {
+    width: 52px;
+  }
+}
+
+@media (max-width: 1650px) {
+  .container {
+    width: 1650px;
+  }
+
+  .div1 {
+    margin-right: -36px;
+  }
+
+  .div2 {
+    margin-left: -36px;
+  }
+
+  .cardDiv1 {
+    width: 816.05px;
+  }
+
+  .cardDiv1 h1 {
+    font-size: 57.95px;
+  }
+
+  .cardDiv1 p {
+    font-size: 30.4px;
+  }
+
+  .cardDiv1 button {
+    margin-top: 26.6px;
+    font-size: 26.6px;
+    padding: 10.45px 51.3px;
+    border: 5.7px solid;
+    border-radius: 8.55px;
+  }
+
+  .cardDiv2 {
+    width: 513.95px;
+    height: 549.1px;
+    gap: 14.25px;
+  }
+
+  .cardImgs {
+    gap: 14.25px;
+  }
+
+  .divImgs1 {
+    gap: 14.25px;
+  }
+
+  .divImgs2 {
+    gap: 14.25px;
+  }
+
+  .img1 {
+    width: 252.7px;
+    height: 315.4px;
+    border-radius: 21px;
+  }
+
+  .img2 {
+    width: 252.7px;
+    height: 162.45px;
+    border-radius: 21px;
+  }
+
+  .img3 {
+    width: 252.7px;
+    height: 99.75px;
+    border-radius: 21px;
+  }
+
+  .img4 {
+    width: 252.7px;
+    height: 378.1px;
+    border-radius: 21px;
+  }
+
+  .divBottom {
+    border-radius: 15.2px;
+    width: 519px;
+    height: 73.15px;
+  }
+
+  .divBottom h1 {
+    font-size: 40.85px;
+    margin-left: 27.55px;
+  }
+
+  .divBottom img {
+    width: 49.4px;
+  }
+}
+
+@media (max-width: 1520px) {
+  .container {
+    width: 1520px;
+  }
+
+  .div1 {
+    margin-right: -33.12px;
+  }
+
+  .div2 {
+    margin-left: -33.12px;
+  }
+
+  .cardDiv1 {
+    width: 750.76px;
+  }
+
+  .cardDiv1 h1 {
+    font-size: 53.03px;
+  }
+
+  .cardDiv1 p {
+    font-size: 28px;
+  }
+
+  .cardDiv1 button {
+    margin-top: 24.47px;
+    font-size: 24.47px;
+    padding: 9.61px 47.19px;
+    border: 5.2px solid;
+    border-radius: 7.86px;
+  }
+
+  .cardDiv2 {
+    width: 472.83px;
+    height: 505.17px;
+    gap: 13.11px;
+  }
+
+  .cardImgs {
+    gap: 13.11px;
+  }
+
+  .divImgs1 {
+    gap: 13.11px;
+  }
+
+  .divImgs2 {
+    gap: 13.11px;
+  }
+
+  .img1 {
+    width: 232.48px;
+    height: 290.16px;
+    border-radius: 19.32px;
+  }
+
+  .img2 {
+    width: 232.48px;
+    height: 149.45px;
+    border-radius: 19.32px;
+  }
+
+  .img3 {
+    width: 232.48px;
+    height: 91.77px;
+    border-radius: 19.32px;
+  }
+
+  .img4 {
+    width: 232.48px;
+    height: 347.85px;
+    border-radius: 19.32px;
+  }
+
+  .divBottom {
+    border-radius: 15.2px;
+    width: 478px;
+    height: 67.29px;
+  }
+
+  .divBottom h1 {
+    font-size: 37.58px;
+    margin-left: 25.34px;
+  }
+
+  .divBottom img {
+    width: 45.44px;
+  }
+}
+
+@media (max-width: 1450px) {
+  .container {
+    width: 1450px;
+  }
+
+  .div1 {
+    margin-right: -31.79px;
+  }
+
+  .div2 {
+    margin-left: -31.79px;
+  }
+
+  .cardDiv1 {
+    width: 720.72px;
+  }
+
+  .cardDiv1 h1 {
+    font-size: 50.9px;
+  }
+
+  .cardDiv1 p {
+    font-size: 26.88px;
+  }
+
+  .cardDiv1 button {
+    margin-top: 23.49px;
+    font-size: 23.49px;
+    padding: 9.22px 45.3px;
+    border: 4.9px solid;
+    border-radius: 7.54px;
+  }
+
+  .cardDiv2 {
+    width: 453.91px;
+    height: 484.96px;
+    gap: 12.58px;
+  }
+
+  .cardImgs {
+    gap: 12.58px;
+  }
+
+  .divImgs1 {
+    gap: 12.58px;
+  }
+
+  .divImgs2 {
+    gap: 12.58px;
+  }
+
+  .img1 {
+    width: 223.18px;
+    height: 278.55px;
+    border-radius: 18.54px;
+  }
+
+  .img2 {
+    width: 223.18px;
+    height: 143.47px;
+    border-radius: 18.54px;
+  }
+
+  .img3 {
+    width: 223.18px;
+    height: 88.09px;
+    border-radius: 18.54px;
+  }
+
+  .img4 {
+    width: 223.18px;
+    height: 333.93px;
+    border-radius: 18.54px;
+  }
+
+  .divBottom {
+    border-radius: 14.5px;
+    width: 459px;
+    height: 64.59px;
+  }
+
+  .divBottom h1 {
+    font-size: 36.07px;
+    margin-left: 24.32px;
+  }
+
+  .divBottom img {
+    width: 43.62px;
+  }
+}
+
+@media (max-width: 1350px) {
+  .container {
+    width: 1350px;
+  }
+
+  .div1 {
+    margin-right: -29.56px;
+  }
+
+  .div2 {
+    margin-left: -29.56px;
+  }
+
+  .cardDiv1 {
+    width: 670.26px;
+  }
+
+  .cardDiv1 h1 {
+    font-size: 47.33px;
+  }
+
+  .cardDiv1 p {
+    font-size: 24.99px;
+  }
+
+  .cardDiv1 button {
+    margin-top: 21.84px;
+    font-size: 21.84px;
+    padding: 8.57px 42.12px;
+    border: 4.55px solid;
+    border-radius: 7.01px;
+  }
+
+  .cardDiv2 {
+    width: 422.13px;
+    height: 451.01px;
+    gap: 11.69px;
+  }
+
+  .cardImgs {
+    gap: 11.69px;
+  }
+
+  .divImgs1 {
+    gap: 11.69px;
+  }
+
+  .divImgs2 {
+    gap: 11.69px;
+  }
+
+  .img1 {
+    width: 207.55px;
+    height: 259.05px;
+    border-radius: 17.24px;
+  }
+
+  .img2 {
+    width: 207.55px;
+    height: 133.42px;
+    border-radius: 17.24px;
+  }
+
+  .img3 {
+    width: 207.55px;
+    height: 81.92px;
+    border-radius: 17.24px;
+  }
+
+  .img4 {
+    width: 207.55px;
+    height: 310.55px;
+    border-radius: 17.24px;
+  }
+
+  .divBottom {
+    border-radius: 13.48px;
+    width: 427px;
+    height: 60.06px;
+  }
+
+  .divBottom h1 {
+    font-size: 33.54px;
+    margin-left: 22.61px;
+  }
+
+  .divBottom img {
+    width: 40.56px;
+  }
+}
+
+@media (max-width: 1250px) {
+  .container {
+    width: 1250px;
+  }
+
+  .div1 {
+    margin-right: -27.19px;
+  }
+
+  .div2 {
+    margin-left: -27.19px;
+  }
+
+  .cardDiv1 {
+    width: 616.63px;
+  }
+
+  .cardDiv1 h1 {
+    font-size: 43.54px;
+  }
+
+  .cardDiv1 p {
+    font-size: 22.99px;
+  }
+
+  .cardDiv1 button {
+    margin-top: 20.09px;
+    font-size: 20.09px;
+    padding: 7.88px 38.75px;
+    border: 4.18px solid;
+    border-radius: 6.44px;
+  }
+
+  .cardDiv2 {
+    width: 388.35px;
+    height: 414.92px;
+    gap: 10.75px;
+  }
+
+  .cardImgs {
+    gap: 10.75px;
+  }
+
+  .divImgs1 {
+    gap: 10.75px;
+  }
+
+  .divImgs2 {
+    gap: 10.75px;
+  }
+
+  .img1 {
+    width: 190.94px;
+    height: 238.32px;
+    border-radius: 15.86px;
+  }
+
+  .img2 {
+    width: 190.94px;
+    height: 122.74px;
+    border-radius: 15.86px;
+  }
+
+  .img3 {
+    width: 190.94px;
+    height: 75.36px;
+    border-radius: 15.86px;
+  }
+
+  .img4 {
+    width: 190.94px;
+    height: 285.7px;
+    border-radius: 15.86px;
+  }
+
+  .divBottom {
+    border-radius: 12.4px;
+    width: 392px;
+    height: 55.25px;
+  }
+
+  .divBottom h1 {
+    font-size: 30.85px;
+    margin-left: 20.8px;
+  }
+
+  .divBottom img {
+    width: 37.37px;
+  }
 }
