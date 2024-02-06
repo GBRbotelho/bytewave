@@ -44,3 +44,187 @@
   width: 1037px;
   color: white;
 }
+
+@media (max-width: 1830px) {
+  .section {
+    height: 204px;
+  }
+
+  .container {
+    width: 1824px;
+    height: 204px;
+  }
+
+  .button button {
+    border: 4px solid;
+    border-radius: 19px;
+    font-size: 33px;
+    padding: 12px 99px;
+  }
+
+  .text p {
+    font-size: 36px;
+    width: 985px;
+  }
+}
+
+@media (max-width: 1730px) {
+  .section {
+    height: 194px;
+  }
+
+  .container {
+    width: 1732px;
+    height: 194px;
+  }
+
+  .button button {
+    border: 4px solid;
+    border-radius: 18px;
+    font-size: 31px;
+    padding: 11px 94px;
+  }
+
+  .text p {
+    font-size: 34px;
+    width: 935px;
+  }
+}
+
+@media (max-width: 1650px) {
+  .section {
+    height: 184px;
+  }
+
+  .container {
+    width: 1646px;
+    height: 184px;
+  }
+
+  .button button {
+    border: 4px solid;
+    border-radius: 18px;
+    font-size: 30px;
+    padding: 11px 90px;
+  }
+
+  .text p {
+    font-size: 32px;
+    width: 889px;
+  }
+}
+
+@media (max-width: 1550px) {
+  .section {
+    height: 173px;
+  }
+
+  .container {
+    width: 1547px;
+    height: 173px;
+  }
+
+  .button button {
+    border: 4px solid;
+    border-radius: 17px;
+    font-size: 28px;
+    padding: 10px 84px;
+  }
+
+  .text p {
+    font-size: 30px;
+    width: 835px;
+  }
+}
+
+@media (max-width: 1450px) {
+  .section {
+    height: 162px;
+  }
+
+  .container {
+    width: 1454px;
+    height: 162px;
+  }
+
+  .button button {
+    border: 3px solid;
+    border-radius: 15px;
+    font-size: 26px;
+    padding: 10px 79px;
+  }
+
+  .text p {
+    font-size: 28px;
+    width: 785px;
+  }
+}
+
+@media (max-width: 1350px) {
+  .section {
+    height: 151px;
+  }
+
+  .container {
+    width: 1352px;
+    height: 151px;
+  }
+
+  .button button {
+    border: 3px solid;
+    border-radius: 15px;
+    font-size: 24px;
+    padding: 9px 73px;
+  }
+
+  .text p {
+    font-size: 26px;
+    width: 730px;
+  }
+}
+
+@media (max-width: 1250px) {
+  .section {
+    height: 139px;
+  }
+
+  .container {
+    width: 1244px;
+    height: 139px;
+  }
+
+  .button button {
+    border: 3px solid;
+    border-radius: 13px;
+    font-size: 22px;
+    padding: 8px 68px;
+  }
+
+  .text p {
+    font-size: 24px;
+    width: 672px;
+  }
+}
+
+@media (max-width: 1150px) {
+  .section {
+    height: 128px;
+  }
+
+  .container {
+    width: 1144px;
+    height: 128px;
+  }
+
+  .button button {
+    border: 2px solid;
+    border-radius: 13px;
+    font-size: 21px;
+    padding: 8px 62px;
+  }
+
+  .text p {
+    font-size: 22px;
+    width: 618px;
+  }
+}
