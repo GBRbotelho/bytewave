@@ -1,6 +1,9 @@
 import React from "react";
 import styles from "./Container1.module.css";
 
+//Imgs | Icon
+import icon from "../assets/imgs/2.svg";
+
 export default function Container1() {
   return (
     <section className={styles.section}>
@@ -24,6 +27,7 @@ export default function Container1() {
             </div>
           </div>
           <div className={styles.divBottom}>
+            <img src={icon} alt="" />
             <h1>mais clientes</h1>
           </div>
         </div>

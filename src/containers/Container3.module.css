@@ -35,8 +35,11 @@
 
 .card div {
   width: 115px;
-  height: 80px;
-  background-color: #003070;
+  margin-bottom: -30px;
+}
+
+.card img {
+  width: 115px;
 }
 
 .card h2 {

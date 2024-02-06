@@ -1,6 +1,12 @@
 import React from "react";
 import styles from "./Container5.module.css";
 
+//Icons
+import icon1 from "../assets/imgs/8.svg";
+import icon2 from "../assets/imgs/9.svg";
+import icon3 from "../assets/imgs/10.svg";
+import icon4 from "../assets/imgs/11.svg";
+
 export default function Container5() {
   return (
     <section className={styles.section}>
@@ -10,7 +16,9 @@ export default function Container5() {
       <div className={styles.card}>
         <div className={styles.titleCard}>
           <div className={styles.contentTitle}>
-            <div className={styles.icon}></div>
+            <div className={styles.icon}>
+              <img src={icon1} alt="" />
+            </div>
             <div className={styles.textTitle}>
               <h2>Ideia</h2>
               <p>Passo 1</p>
@@ -34,7 +42,9 @@ export default function Container5() {
         </div>
         <div className={styles.titleCard2}>
           <div className={styles.contentTitle}>
-            <div className={styles.icon}></div>
+            <div className={styles.icon}>
+              <img src={icon2} alt="" />
+            </div>
             <div className={styles.textTitle}>
               <h2>MVP</h2>
               <p>Passo 2</p>
@@ -45,7 +55,9 @@ export default function Container5() {
       <div className={styles.card}>
         <div className={styles.titleCard}>
           <div className={styles.contentTitle}>
-            <div className={styles.icon}></div>
+            <div className={styles.icon}>
+              <img src={icon3} alt="" />
+            </div>
             <div className={styles.textTitle}>
               <h2>Construção</h2>
               <p>Passo 3</p>
@@ -70,7 +82,9 @@ export default function Container5() {
         </div>
         <div className={styles.titleCard2}>
           <div className={styles.contentTitle}>
-            <div className={styles.icon}></div>
+            <div className={styles.icon}>
+              <img src={icon4} alt="" />
+            </div>
             <div className={styles.textTitle}>
               <h2>Entrega</h2>
               <p>Passo Final</p>

@@ -74,3 +74,10 @@
   width: 1010px;
   font-size: 30px;
 }
+
+.icon img {
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,6 +1,8 @@
 import React from "react";
 import styles from "./Container4.module.css";
 
+import icon from "../assets/imgs/7.svg";
+
 export default function Container4() {
   return (
     <section className={styles.section}>
@@ -11,7 +13,10 @@ export default function Container4() {
           </h2>
         </div>
         <div className={styles.button}>
-          <button>conversar com um especialista</button>
+          <button>
+            <img src={icon} alt="" />
+            conversar com um especialista
+          </button>
         </div>
       </div>
     </section>
