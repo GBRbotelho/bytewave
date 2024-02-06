@@ -1,0 +1,43 @@
+.section {
+  width: 100vw;
+  height: 205px;
+  background-color: #003070;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  width: 1920px;
+}
+
+.text {
+  flex: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text p {
+  width: 1105px;
+  font-size: 40px;
+}
+
+.button {
+  flex: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button button {
+  background-color: #003070;
+  border: 5px solid;
+  border-radius: 21px;
+  border-color: #ffffff;
+  color: #ffffff;
+  font-size: 40px;
+  padding: 10px 50px;
+}
