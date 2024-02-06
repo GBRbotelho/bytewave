@@ -90,3 +90,395 @@
   align-items: center;
   justify-content: center;
 }
+
+@media (max-width: 1830px) {
+  .title {
+    height: 123px;
+    box-shadow: inset 0px -1px 28px -9px rgba(0, 0, 0, 0.1);
+  }
+
+  .title h2 {
+    font-size: 36px;
+  }
+
+  .divCard {
+    height: 247px;
+    box-shadow: inset 0px -57px 47px -9px rgba(0, 0, 0, 0.1);
+  }
+
+  .card {
+    height: 247px;
+    width: 1824px;
+  }
+
+  /* CONTEUDO */
+
+  .titleCard {
+    border-right: 4px solid;
+  }
+
+  .titleCard2 {
+    border-left: 4px solid;
+  }
+
+  .textTitle h2 {
+    font-size: 45px;
+  }
+
+  .textTitle p {
+    margin-top: -19px;
+    font-size: 28px;
+  }
+
+  .textCard p {
+    width: 959px;
+    font-size: 28px;
+  }
+
+  .icon img {
+    height: 85px;
+  }
+}
+
+@media (max-width: 1730px) {
+  .title {
+    height: 117px;
+    box-shadow: inset 0px -1px 27px -9px rgba(0, 0, 0, 0.1);
+  }
+
+  .title h2 {
+    font-size: 34px;
+  }
+
+  .divCard {
+    height: 234px;
+    box-shadow: inset 0px -54px 45px -9px rgba(0, 0, 0, 0.1);
+  }
+
+  .card {
+    height: 234px;
+    width: 1732px;
+  }
+
+  /* CONTEUDO */
+
+  .titleCard {
+    border-right: 4px solid;
+  }
+
+  .titleCard2 {
+    border-left: 4px solid;
+  }
+
+  .textTitle h2 {
+    font-size: 43px;
+  }
+
+  .textTitle p {
+    margin-top: -18px;
+    font-size: 27px;
+  }
+
+  .textCard p {
+    width: 911px;
+    font-size: 27px;
+  }
+
+  .icon img {
+    height: 81px;
+  }
+}
+
+@media (max-width: 1650px) {
+  .title {
+    height: 111px;
+    box-shadow: inset 0px -1px 25px -8px rgba(0, 0, 0, 0.1);
+  }
+
+  .title h2 {
+    font-size: 32px;
+  }
+
+  .divCard {
+    height: 222px;
+    box-shadow: inset 0px -51px 42px -8px rgba(0, 0, 0, 0.1);
+  }
+
+  .card {
+    height: 222px;
+    width: 1646px;
+  }
+
+  /* CONTEUDO */
+
+  .titleCard {
+    border-right: 3px solid;
+  }
+
+  .titleCard2 {
+    border-left: 3px solid;
+  }
+
+  .textTitle h2 {
+    font-size: 41px;
+  }
+
+  .textTitle p {
+    margin-top: -17px;
+    font-size: 25px;
+  }
+
+  .textCard p {
+    width: 865px;
+    font-size: 25px;
+  }
+
+  .icon img {
+    height: 77px;
+  }
+}
+
+@media (max-width: 1550px) {
+  .title {
+    height: 104px;
+    box-shadow: inset 0px -1px 24px -8px rgba(0, 0, 0, 0.1);
+  }
+
+  .title h2 {
+    font-size: 30px;
+  }
+
+  .divCard {
+    height: 209px;
+    box-shadow: inset 0px -48px 40px -8px rgba(0, 0, 0, 0.1);
+  }
+
+  .card {
+    height: 209px;
+    width: 1547px;
+  }
+
+  /* CONTEUDO */
+
+  .titleCard {
+    border-right: 3px solid;
+  }
+
+  .titleCard2 {
+    border-left: 3px solid;
+  }
+
+  .textTitle h2 {
+    font-size: 38px;
+  }
+
+  .textTitle p {
+    margin-top: -16px;
+    font-size: 24px;
+  }
+
+  .textCard p {
+    width: 813px;
+    font-size: 24px;
+  }
+
+  .icon img {
+    height: 72px;
+  }
+}
+
+@media (max-width: 1450px) {
+  .title {
+    height: 98px;
+    box-shadow: inset 0px -1px 22px -7px rgba(0, 0, 0, 0.1);
+  }
+
+  .title h2 {
+    font-size: 28px;
+  }
+
+  .divCard {
+    height: 196px;
+    box-shadow: inset 0px -45px 37px -7px rgba(0, 0, 0, 0.1);
+  }
+
+  .card {
+    height: 196px;
+    width: 1454px;
+  }
+
+  /* CONTEUDO */
+
+  .titleCard {
+    border-right: 3px solid;
+  }
+
+  .titleCard2 {
+    border-left: 3px solid;
+  }
+
+  .textTitle h2 {
+    font-size: 36px;
+  }
+
+  .textTitle p {
+    margin-top: -15px;
+    font-size: 22px;
+  }
+
+  .textCard p {
+    width: 765px;
+    font-size: 22px;
+  }
+
+  .icon img {
+    height: 68px;
+  }
+}
+
+@media (max-width: 1350px) {
+  .title {
+    height: 91px;
+    box-shadow: inset 0px -1px 21px -7px rgba(0, 0, 0, 0.1);
+  }
+
+  .title h2 {
+    font-size: 26px;
+  }
+
+  .divCard {
+    height: 183px;
+    box-shadow: inset 0px -42px 35px -7px rgba(0, 0, 0, 0.1);
+  }
+
+  .card {
+    height: 183px;
+    width: 1352px;
+  }
+
+  /* CONTEUDO */
+
+  .titleCard {
+    border-right: 3px solid;
+  }
+
+  .titleCard2 {
+    border-left: 3px solid;
+  }
+
+  .textTitle h2 {
+    font-size: 33px;
+  }
+
+  .textTitle p {
+    margin-top: -14px;
+    font-size: 21px;
+  }
+
+  .textCard p {
+    width: 711px;
+    font-size: 21px;
+  }
+
+  .icon img {
+    height: 63px;
+  }
+}
+
+@media (max-width: 1250px) {
+  .title {
+    height: 84px;
+    box-shadow: inset 0px -1px 19px -6px rgba(0, 0, 0, 0.1);
+  }
+
+  .title h2 {
+    font-size: 24px;
+  }
+
+  .divCard {
+    height: 168px;
+    box-shadow: inset 0px -38px 32px -6px rgba(0, 0, 0, 0.1);
+  }
+
+  .card {
+    height: 168px;
+    width: 1244px;
+  }
+
+  /* CONTEUDO */
+
+  .titleCard {
+    border-right: 3px solid;
+  }
+
+  .titleCard2 {
+    border-left: 3px solid;
+  }
+
+  .textTitle h2 {
+    font-size: 31px;
+  }
+
+  .textTitle p {
+    margin-top: -12px;
+    font-size: 19px;
+  }
+
+  .textCard p {
+    width: 654px;
+    font-size: 19px;
+  }
+
+  .icon img {
+    height: 58px;
+  }
+}
+
+@media (max-width: 1150px) {
+  .title {
+    height: 77px;
+    box-shadow: inset 0px -1px 17px -6px rgba(0, 0, 0, 0.1);
+  }
+
+  .title h2 {
+    font-size: 22px;
+  }
+
+  .divCard {
+    height: 155px;
+    box-shadow: inset 0px -35px 29px -6px rgba(0, 0, 0, 0.1);
+  }
+
+  .card {
+    height: 155px;
+    width: 1144px;
+  }
+
+  /* CONTEUDO */
+
+  .titleCard {
+    border-right: 2px solid;
+  }
+
+  .titleCard2 {
+    border-left: 2px solid;
+  }
+
+  .textTitle h2 {
+    font-size: 28px;
+  }
+
+  .textTitle p {
+    margin-top: -12px;
+    font-size: 17px;
+  }
+
+  .textCard p {
+    width: 602px;
+    font-size: 17px;
+  }
+
+  .icon img {
+    height: 53px;
+  }
+}
