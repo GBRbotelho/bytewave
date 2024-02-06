@@ -1,0 +1,39 @@
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 380px;
+  width: 100vw;
+  background-color: #003070;
+  color: #ffffff;
+}
+
+.container {
+  width: 1920px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  flex: 25%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.data {
+  flex: 75%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 40px;
+}
+
+.data span,
+p {
+  margin: 0;
+}
+
+.data span {
+  color: #9cafc7;
+}

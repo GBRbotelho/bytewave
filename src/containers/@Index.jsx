@@ -10,6 +10,7 @@ import Container5 from "./Container5";
 import Container6 from "./Container6";
 import Container7 from "./Container7";
 import Container8 from "./Container8";
+import Container9 from "./Container9";
 
 export default function Index() {
   return (
@@ -22,6 +23,7 @@ export default function Index() {
       <Container6 />
       <Container7 />
       <Container8 />
+      <Container9 />
     </main>
   );
 }
