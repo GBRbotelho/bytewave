@@ -33,8 +33,161 @@
 .data span,
 p {
   margin: 0;
+  font-size: 40px;
 }
 
 .data span {
   color: #9cafc7;
+}
+
+@media (max-width: 1830px) {
+  .section {
+    height: 361px;
+  }
+
+  .container {
+    width: 1824px;
+  }
+
+  .data span,
+  p {
+    font-size: 38px;
+  }
+
+  .data {
+    font-size: 38px;
+  }
+}
+
+@media (max-width: 1730px) {
+  .section {
+    height: 342px;
+  }
+
+  .container {
+    width: 1732px;
+  }
+
+  .data span,
+  p {
+    font-size: 36px;
+  }
+
+  .data {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 1650px) {
+  .section {
+    height: 325px;
+  }
+
+  .container {
+    width: 1646px;
+  }
+
+  .data span,
+  p {
+    font-size: 34px;
+  }
+
+  .data {
+    font-size: 34px;
+  }
+}
+
+@media (max-width: 1550px) {
+  .section {
+    height: 306px;
+  }
+
+  .container {
+    width: 1547px;
+  }
+
+  .data span,
+  p {
+    font-size: 32px;
+  }
+
+  .data {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 1450px) {
+  .section {
+    height: 287px;
+  }
+
+  .container {
+    width: 1454px;
+  }
+
+  .data span,
+  p {
+    font-size: 30px;
+  }
+
+  .data {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 1350px) {
+  .section {
+    height: 267px;
+  }
+
+  .container {
+    width: 1352px;
+  }
+
+  .data span,
+  p {
+    font-size: 28px;
+  }
+
+  .data {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 1250px) {
+  .section {
+    height: 246px;
+  }
+
+  .container {
+    width: 1244px;
+  }
+
+  .data span,
+  p {
+    font-size: 25px;
+  }
+
+  .data {
+    font-size: 25px;
+  }
+}
+
+@media (max-width: 1150px) {
+  .section {
+    height: 226px;
+  }
+
+  .container {
+    width: 1144px;
+  }
+
+  .data span,
+  p {
+    font-size: 23px;
+  }
+
+  .data {
+    font-size: 23px;
+  }
 }
