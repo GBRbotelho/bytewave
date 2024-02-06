@@ -67,3 +67,188 @@
   font-size: 30px;
   margin: 0;
 }
+
+@media (max-width: 1730px) {
+  .section {
+    height: 508.5px;
+    margin-bottom: 90px;
+  }
+
+  .container {
+    width: 1730px;
+    gap: 54px;
+  }
+  .title {
+    font-size: 40.5px;
+  }
+
+  .card {
+    width: 321.3px;
+    height: 241.2px;
+  }
+
+  .card div {
+    width: 103.5px;
+    margin-bottom: -27px;
+  }
+
+  .card img {
+    width: 103.5px;
+  }
+
+  .card h2 {
+    font-size: 33.3px;
+  }
+
+  .card p {
+    font-size: 27px;
+  }
+}
+
+@media (max-width: 1450px) {
+  .section {
+    height: 457.65px;
+    margin-bottom: 81px;
+  }
+
+  .container {
+    width: 1450px;
+    gap: 48.6px;
+  }
+  .title {
+    font-size: 36.45px;
+  }
+
+  .card {
+    width: 289.17px;
+    height: 217.08px;
+  }
+
+  .card div {
+    width: 93.15px;
+    margin-bottom: -24.3px;
+  }
+
+  .card img {
+    width: 93.15px;
+  }
+
+  .card h2 {
+    font-size: 29.97px;
+  }
+
+  .card p {
+    font-size: 24.3px;
+  }
+}
+
+@media (max-width: 1300px) {
+  .section {
+    height: 407.3px;
+    margin-bottom: 72.09px;
+  }
+
+  .container {
+    width: 1300px;
+    gap: 43.25px;
+  }
+  .title {
+    font-size: 32.44px;
+  }
+
+  .card {
+    width: 257.36px;
+    height: 193.2px;
+  }
+
+  .card div {
+    width: 82.9px;
+    margin-bottom: -21.62px;
+  }
+
+  .card img {
+    width: 82.9px;
+  }
+
+  .card h2 {
+    font-size: 26.67px;
+  }
+
+  .card p {
+    font-size: 21.62px;
+  }
+}
+
+@media (max-width: 1150px) {
+  .section {
+    height: 362.49px;
+    margin-bottom: 64.16px;
+  }
+
+  .container {
+    width: 1150px;
+    gap: 38.49px;
+  }
+  .title {
+    font-size: 28.87px;
+  }
+
+  .card {
+    width: 229.05px;
+    height: 171.94px;
+  }
+
+  .card div {
+    width: 73.78px;
+    margin-bottom: -19.24px;
+  }
+
+  .card img {
+    width: 73.78px;
+  }
+
+  .card h2 {
+    font-size: 23.73px;
+  }
+
+  .card p {
+    font-size: 19.24px;
+  }
+}
+
+@media (max-width: 1030px) {
+  .section {
+    height: 322.62px;
+    margin-bottom: 57.1px;
+  }
+
+  .container {
+    width: 1030px;
+    gap: 34.25px;
+  }
+  .title {
+    font-size: 25.69px;
+  }
+
+  .card {
+    width: 203.85px;
+    height: 153.03px;
+  }
+
+  .card div {
+    width: 65.66px;
+    margin-bottom: -17.12px;
+  }
+
+  .card img {
+    width: 65.66px;
+  }
+
+  .card h2 {
+    font-size: 21.12px;
+  }
+
+  .card p {
+    font-size: 17.12px;
+  }
+}
