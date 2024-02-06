@@ -1,9 +1,10 @@
 .section {
   color: #5271ff;
-  width: 1920px;
+  width: 100vw;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 
 .title {
@@ -19,12 +20,20 @@
   font-size: 38px;
 }
 
+.divCard {
+  width: 100vw;
+  height: 260px;
+  box-shadow: inset 0px -60px 50px -10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .card {
   display: flex;
   justify-content: center;
   height: 260px;
   width: 1920px;
-  box-shadow: inset 0px -60px 50px -10px rgba(0, 0, 0, 0.1);
 }
 
 /* CONTEUDO */

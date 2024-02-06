@@ -15,9 +15,9 @@ import Container9 from "./Container9";
 export default function Index() {
   return (
     <main className={styles.main}>
-      <Navbar />
+      {/* <Navbar /> */}
       <Container1 />
-      <Container3 />
+      <Container3 />;
       <Container4 />
       <Container5 />
       <Container6 />

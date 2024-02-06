@@ -1,8 +1,18 @@
 .section {
   display: flex;
-  width: 1920px;
+  width: 100vw;
   height: 215px;
   background-color: #5271ff;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 1920px;
+  height: 215px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .button {
