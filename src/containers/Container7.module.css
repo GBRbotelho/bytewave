@@ -61,3 +61,299 @@
 .dataCard p {
   margin: 0;
 }
+
+@media (max-width: 1830px) {
+  .section {
+    height: 760px;
+  }
+
+  .container {
+    width: 1824px;
+    gap: 95px;
+  }
+
+  .title h2 {
+    font-size: 35px;
+  }
+
+  .card {
+    width: 498px;
+    height: 416px;
+    border-radius: 15px;
+    gap: 57px;
+  }
+
+  .card p {
+    font-size: 27px;
+    width: 422px;
+  }
+
+  .circle {
+    width: 76px;
+    height: 76px;
+    border-radius: 47px;
+  }
+
+  .dataCard span {
+    font-size: 27px;
+  }
+}
+
+@media (max-width: 1730px) {
+  .section {
+    height: 722px;
+  }
+
+  .container {
+    width: 1732px;
+    gap: 90px;
+  }
+
+  .title h2 {
+    font-size: 33px;
+  }
+
+  .card {
+    width: 473px;
+    height: 395px;
+    border-radius: 14px;
+    gap: 54px;
+  }
+
+  .card p {
+    font-size: 26px;
+    width: 401px;
+  }
+
+  .circle {
+    width: 73px;
+    height: 73px;
+    border-radius: 45px;
+  }
+
+  .dataCard span {
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 1650px) {
+  .section {
+    height: 685px;
+  }
+
+  .container {
+    width: 1646px;
+    gap: 85px;
+  }
+
+  .title h2 {
+    font-size: 31px;
+  }
+
+  .card {
+    width: 450px;
+    height: 375px;
+    border-radius: 13px;
+    gap: 51px;
+  }
+
+  .card p {
+    font-size: 24px;
+    width: 381px;
+  }
+
+  .circle {
+    width: 69px;
+    height: 69px;
+    border-radius: 42px;
+  }
+
+  .dataCard span {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 1550px) {
+  .section {
+    height: 645px;
+  }
+
+  .container {
+    width: 1547px;
+    gap: 80px;
+  }
+
+  .title h2 {
+    font-size: 29px;
+  }
+
+  .card {
+    width: 423px;
+    height: 352px;
+    border-radius: 13px;
+    gap: 48px;
+  }
+
+  .card p {
+    font-size: 23px;
+    width: 358px;
+  }
+
+  .circle {
+    width: 65px;
+    height: 65px;
+    border-radius: 40px;
+  }
+
+  .dataCard span {
+    font-size: 23px;
+  }
+}
+
+@media (max-width: 1450px) {
+  .section {
+    height: 606px;
+  }
+
+  .container {
+    width: 1454px;
+    gap: 75px;
+  }
+
+  .title h2 {
+    font-size: 28px;
+  }
+
+  .card {
+    width: 397px;
+    height: 331px;
+    border-radius: 12px;
+    gap: 45px;
+  }
+
+  .card p {
+    font-size: 21px;
+    width: 337px;
+  }
+
+  .circle {
+    width: 61px;
+    height: 61px;
+    border-radius: 37px;
+  }
+
+  .dataCard span {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 1350px) {
+  .section {
+    height: 563px;
+  }
+
+  .container {
+    width: 1352px;
+    gap: 70px;
+  }
+
+  .title h2 {
+    font-size: 26px;
+  }
+
+  .card {
+    width: 369px;
+    height: 308px;
+    border-radius: 11px;
+    gap: 42px;
+  }
+
+  .card p {
+    font-size: 20px;
+    width: 313px;
+  }
+
+  .circle {
+    width: 57px;
+    height: 57px;
+    border-radius: 35px;
+  }
+
+  .dataCard span {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 1250px) {
+  .section {
+    height: 518px;
+  }
+
+  .container {
+    width: 1244px;
+    gap: 64px;
+  }
+
+  .title h2 {
+    font-size: 23px;
+  }
+
+  .card {
+    width: 340px;
+    height: 283px;
+    border-radius: 10px;
+    gap: 38px;
+  }
+
+  .card p {
+    font-size: 18px;
+    width: 288px;
+  }
+
+  .circle {
+    width: 52px;
+    height: 52px;
+    border-radius: 32px;
+  }
+
+  .dataCard span {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 1150px) {
+  .section {
+    height: 477px;
+  }
+
+  .container {
+    width: 1144px;
+    gap: 59px;
+  }
+
+  .title h2 {
+    font-size: 22px;
+  }
+
+  .card {
+    width: 313px;
+    height: 261px;
+    border-radius: 9px;
+    gap: 35px;
+  }
+
+  .card p {
+    font-size: 17px;
+    width: 265px;
+  }
+
+  .circle {
+    width: 48px;
+    height: 48px;
+    border-radius: 29px;
+  }
+
+  .dataCard span {
+    font-size: 17px;
+  }
+}
