@@ -134,13 +134,11 @@
   width: 55px;
 }
 
-@media (max-width: 1820px) {
-  .container {
-    width: 1820px;
-  }
-}
-
 @media (max-width: 1720px) {
+  .section {
+    height: 676px;
+  }
+
   .container {
     width: 1720px;
   }
@@ -238,6 +236,10 @@
 }
 
 @media (max-width: 1650px) {
+  .section {
+    height: 643px;
+  }
+
   .container {
     width: 1650px;
   }
@@ -329,6 +331,10 @@
 }
 
 @media (max-width: 1520px) {
+  .section {
+    height: 594px;
+  }
+
   .container {
     width: 1520px;
   }
@@ -420,6 +426,10 @@
 }
 
 @media (max-width: 1450px) {
+  .section {
+    height: 565px;
+  }
+
   .container {
     width: 1450px;
   }
@@ -511,6 +521,10 @@
 }
 
 @media (max-width: 1350px) {
+  .section {
+    height: 525px;
+  }
+
   .container {
     width: 1350px;
   }
@@ -602,6 +616,10 @@
 }
 
 @media (max-width: 1250px) {
+  .section {
+    height: 488px;
+  }
+
   .container {
     width: 1250px;
   }
