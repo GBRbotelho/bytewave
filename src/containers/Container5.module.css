@@ -482,3 +482,82 @@
     height: 53px;
   }
 }
+
+@media (max-width: 850px) {
+  .title {
+    height: 200px;
+    box-shadow: inset 0px -1px 17px -6px rgba(0, 0, 0, 0.1);
+  }
+
+  .title h2 {
+    font-size: 22px;
+  }
+
+  .divCard {
+    height: 300px;
+    box-shadow: inset 0px -35px 29px -6px rgba(0, 0, 0, 0.1);
+  }
+
+  .card {
+    height: 300px;
+    width: 1144px;
+  }
+
+  /* CONTEUDO */
+
+  .titleCard {
+    border-right: 2px solid;
+  }
+
+  .titleCard2 {
+    border-left: 2px solid;
+  }
+
+  .textTitle h2 {
+    font-size: 28px;
+  }
+
+  .textTitle p {
+    margin-top: -12px;
+    font-size: 17px;
+  }
+
+  .textCard p {
+    width: 95%;
+    height: auto;
+    font-size: 23px;
+  }
+
+  .icon img {
+    height: 53px;
+  }
+}
+
+@media (max-width: 750px) {
+  .card {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 260px;
+    width: 1920px;
+  }
+
+  .textCard p {
+    font-size: 22px;
+  }
+
+  .titleCard {
+    border-right: 0px solid;
+    border-color: #5271ff;
+  }
+}
+
+@media (max-width: 350px) {
+  .divCard {
+    height: 400px;
+  }
+
+  .card {
+    height: 400px;
+  }
+}

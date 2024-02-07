@@ -20,7 +20,7 @@ export default function Container3() {
             <h2>landpages</h2>
             <p>
               sites que são focados em vendas especificas desenvolvidos em 1
-              unica pagina
+              única pagina.
             </p>
           </div>
           <div className={styles.card}>
@@ -29,8 +29,8 @@ export default function Container3() {
             </div>
             <h2>Institucionais</h2>
             <p>
-              sites que são focados em vendas especificas desenvolvidos em 1
-              unica pagina
+              sites que são como cartões de visita aprensetando sua empresa e
+              serviços.
             </p>
           </div>
           <div className={styles.card}>
@@ -40,8 +40,8 @@ export default function Container3() {
 
             <h2>Blogs e portais</h2>
             <p>
-              sites que são focados em vendas especificas desenvolvidos em 1
-              unica pagina
+              sites que são como jornais online, contendo artigos ou noticias
+              importantes.
             </p>
           </div>
           <div className={styles.card}>
@@ -50,8 +50,8 @@ export default function Container3() {
             </div>
             <h2>sistemas</h2>
             <p>
-              sites que são focados em vendas especificas desenvolvidos em 1
-              unica pagina
+              Um software totalmente focado nas necessidades da sua empresa e
+              totalmente personalizado.
             </p>
           </div>
         </div>
