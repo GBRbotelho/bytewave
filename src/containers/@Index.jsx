@@ -17,13 +17,13 @@ export default function Index() {
     <main className={styles.main}>
       {/* <Navbar /> */}
       <Container1 />
-      {/* <Container3 />; */}
-      {/* <Container4 /> */}
-      {/* <Container5 /> */}
-      {/* <Container6 /> */}
-      {/* <Container7 /> */}
-      {/* <Container8 /> */}
-      {/* <Container9 /> */}
+      <Container3 />;
+      {/* <Container4 />
+      <Container5 />
+      <Container6 />
+      <Container7 />
+      <Container8 />
+      <Container9 /> */}
     </main>
   );
 }

@@ -252,3 +252,137 @@
     font-size: 17.12px;
   }
 }
+
+@media (max-width: 950px) {
+  .section {
+    height: 800px;
+    margin-bottom: 57.1px;
+    align-items: flex-start;
+  }
+
+  .title {
+    font-size: 40px;
+  }
+
+  .container {
+    width: 800px;
+    gap: 34.25px;
+  }
+
+  .divCards {
+    flex-wrap: wrap;
+    gap: 150px;
+  }
+
+  .card {
+    width: 300px;
+    height: 153.03px;
+  }
+
+  .card div {
+    width: 97px;
+    margin-bottom: -25px;
+  }
+
+  .card img {
+    width: 97px;
+  }
+
+  .card h2 {
+    font-size: 31px;
+  }
+
+  .card p {
+    font-size: 25px;
+  }
+}
+
+@media (max-width: 600px) {
+  .section {
+    height: 1444px;
+    margin-bottom: 200px;
+  }
+
+  .container {
+    width: 500px;
+    gap: 34.25px;
+  }
+
+  .title {
+    font-size: 37px;
+    margin-left: 20px;
+  }
+
+  .divCards {
+    flex-wrap: wrap;
+    gap: 200px;
+    justify-content: center;
+  }
+
+  .card {
+    width: 300px;
+    height: 153.03px;
+  }
+
+  .card div {
+    width: 97px;
+    margin-bottom: -25px;
+  }
+
+  .card img {
+    width: 97px;
+  }
+
+  .card h2 {
+    font-size: 31px;
+  }
+
+  .card p {
+    font-size: 25px;
+  }
+}
+
+@media (max-width: 350px) {
+  .section {
+    height: auto;
+    margin-bottom: 200px;
+  }
+
+  .container {
+    width: 350px;
+    gap: 34.25px;
+  }
+
+  .title {
+    font-size: 20px;
+    margin-left: 20px;
+  }
+
+  .divCards {
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+  }
+
+  .card {
+    width: 200px;
+    height: 200px;
+  }
+
+  .card div {
+    width: 65px;
+    margin-bottom: -17px;
+  }
+
+  .card img {
+    width: 65px;
+  }
+
+  .card h2 {
+    font-size: 21px;
+  }
+
+  .card p {
+    font-size: 17px;
+  }
+}
