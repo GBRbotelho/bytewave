@@ -16,7 +16,9 @@ export default function Container1() {
               clientes, sistemas customizados para resolver as necessidades da
               sua empresa
             </p>
-            <button>COMEÇAR</button>
+            <a href={`https://wa.me/19998631040?}`}>
+              <button>COMEÇAR</button>
+            </a>
           </div>
         </div>
         <div className={styles.div2}>

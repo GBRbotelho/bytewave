@@ -12,7 +12,9 @@ export default function Container8() {
           </p>
         </div>
         <div className={styles.button}>
-          <button>fazer orçamento</button>
+          <a href={`https://wa.me/19998631040?}`}>
+            <button>fazer orçamento</button>
+          </a>
         </div>
       </div>
     </section>

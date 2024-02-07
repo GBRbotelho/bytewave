@@ -60,11 +60,12 @@ export default function Navbar() {
         </ul>
       </div>
       <div className={styles.button}>
-        <button>
-          {" "}
-          <img src={Wpp} alt="" />
-          ORÇAMENTO
-        </button>
+        <a href={`https://wa.me/19974026227?`}>
+          <button>
+            <img src={Wpp} alt="" />
+            ORÇAMENTO
+          </button>
+        </a>
       </div>
       <div onClick={toggleDropdown} className={styles.hamburger}>
         <img src={isDropdownOpen ? Close : MenuHamburger}></img>
@@ -79,10 +80,12 @@ export default function Navbar() {
           <li onClick={() => scrollToSection("sobre")}>SOBRE</li>
           <a>
             <div className={styles.button}>
-              <button>
-                <img src={Wpp} alt="" />
-                ORÇAMENTO
-              </button>
+              <a href={`https://wa.me/19974026227?}`}>
+                <button>
+                  <img src={Wpp} alt="" />
+                  ORÇAMENTO
+                </button>
+              </a>
             </div>
           </a>
         </ul>

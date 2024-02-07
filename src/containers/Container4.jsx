@@ -13,10 +13,12 @@ export default function Container4() {
           </h2>
         </div>
         <div className={styles.button}>
-          <button>
-            <img src={icon} alt="" />
-            conversar com um especialista
-          </button>
+          <a href={`https://wa.me/19998631040?}`}>
+            <button>
+              <img src={icon} alt="" />
+              conversar com um especialista
+            </button>
+          </a>
         </div>
       </div>
     </section>

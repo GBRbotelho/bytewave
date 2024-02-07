@@ -12,7 +12,9 @@ export default function Container6() {
           </p>
         </div>
         <div className={styles.button}>
-          <button>Eu quero</button>
+          <a href={`https://wa.me/19998631040?}`}>
+            <button>Eu quero</button>
+          </a>
         </div>
       </div>
     </section>
