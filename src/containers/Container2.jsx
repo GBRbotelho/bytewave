@@ -50,6 +50,60 @@ export default function Container2() {
           <SwiperSlide>
             <p className={styles.p2}>Visibilidade</p>
           </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p1}>Desenvolvimento</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p2}>Tecnologia</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p1}>Criatividade</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p2}>Inovação</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p1}>Compromisso</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p2}>Visibilidade</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p1}>Desenvolvimento</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p2}>Tecnologia</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p1}>Criatividade</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p2}>Inovação</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p1}>Compromisso</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p2}>Visibilidade</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p1}>Desenvolvimento</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p2}>Tecnologia</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p1}>Criatividade</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p2}>Inovação</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p1}>Compromisso</p>
+          </SwiperSlide>
+          <SwiperSlide>
+            <p className={styles.p2}>Visibilidade</p>
+          </SwiperSlide>
         </Swiper>
       </div>
     </section>
