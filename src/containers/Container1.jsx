@@ -6,7 +6,7 @@ import icon from "../assets/imgs/2.svg";
 
 export default function Container1() {
   return (
-    <section className={styles.section}>
+    <section className={styles.section} id="home">
       <div className={styles.container}>
         <div className={styles.div1}>
           <div className={styles.cardDiv1}>

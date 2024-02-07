@@ -15,7 +15,7 @@ export default function Container9() {
             <span>Email</span>
             <p>bytewave@bytewave.com</p>
             <span>Whatsapp</span>
-            <p>19 9 8171 0544</p>
+            <p>+55 19 9 9863-1040</p>
           </div>
           <div className={styles.social}>
             <span>Redes sociais</span>

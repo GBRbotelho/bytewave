@@ -20,7 +20,7 @@ export default function Container7() {
   }, []);
 
   return (
-    <section className={styles.section}>
+    <section className={styles.section} id="clientes">
       <div className={styles.container}>
         <div className={styles.title}>
           <h2>O que nossos clientes dizem</h2>

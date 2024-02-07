@@ -9,7 +9,7 @@ import icon4 from "../assets/imgs/6.svg";
 
 export default function Container3() {
   return (
-    <section className={styles.section}>
+    <section className={styles.section} id="servicos">
       <div className={styles.container}>
         <h2 className={styles.title}>O que desenvolvemos?</h2>
         <div className={styles.divCards}>

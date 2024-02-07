@@ -20,7 +20,7 @@ export default function Container5() {
   }, []);
 
   return (
-    <section className={styles.section}>
+    <section className={styles.section} id="sobre">
       <div className={styles.title}>
         <h2>Como fazemos nosso processo ?</h2>
       </div>
