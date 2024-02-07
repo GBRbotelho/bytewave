@@ -19,7 +19,7 @@ export default function Index() {
       <Navbar />
       <Container1 />
       <Container2 />
-      <Container3 />;
+      <Container3 />
       <Container4 />
       <Container5 />
       <Container6 />
