@@ -131,7 +131,6 @@
 }
 
 .divBottom {
-  background-color: #003070;
   border-radius: 16px;
   width: 575px;
   height: 81px;
@@ -210,28 +209,24 @@
   .img1 {
     width: 266px;
     height: 332px;
-    background-color: #003070;
     border-radius: 21px;
   }
 
   .img2 {
     width: 266px;
     height: 171px;
-    background-color: #003070;
     border-radius: 21px;
   }
 
   .img3 {
     width: 266px;
     height: 105px;
-    background-color: #003070;
     border-radius: 21px;
   }
 
   .img4 {
     width: 266px;
     height: 398px;
-    background-color: #003070;
     border-radius: 21px;
   }
 
