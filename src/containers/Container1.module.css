@@ -135,6 +135,7 @@
   width: 575px;
   height: 81px;
   display: flex;
+  background-color: #003070;
   justify-content: space-evenly;
   align-items: center;
 }
