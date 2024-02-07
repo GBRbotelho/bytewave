@@ -357,3 +357,83 @@
     font-size: 17px;
   }
 }
+
+@media (max-width: 1000px) {
+  .section {
+    height: 477px;
+  }
+
+  .container {
+    width: 1000px;
+    gap: 59px;
+  }
+
+  .cards {
+    width: 313px;
+  }
+
+  .title h2 {
+    font-size: 28px;
+  }
+
+  .card {
+    width: 313px;
+    height: 261px;
+    border-radius: 9px;
+    gap: 35px;
+  }
+
+  .card p {
+    font-size: 17px;
+    width: 265px;
+  }
+
+  .circle {
+    width: 48px;
+    height: 48px;
+    border-radius: 29px;
+  }
+
+  .dataCard span {
+    font-size: 17px;
+  }
+}
+
+@media (max-width: 450px) {
+  .title h2 {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 330px) {
+  .title h2 {
+    font-size: 20px;
+    width: 300px;
+  }
+
+  .cards {
+    width: 282px;
+  }
+
+  .card {
+    width: 282px;
+    height: 234px;
+    border-radius: 8px;
+    gap: 32px;
+  }
+
+  .card p {
+    font-size: 15px;
+    width: 238px;
+  }
+
+  .circle {
+    width: 43px;
+    height: 43px;
+    border-radius: 26px;
+  }
+
+  .dataCard span {
+    font-size: 15px;
+  }
+}

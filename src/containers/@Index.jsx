@@ -21,8 +21,8 @@ export default function Index() {
       <Container4 />
       <Container5 />
       <Container6 />
-      {/* <Container7 />
-      <Container8 />
+      <Container7 />
+      {/* <Container8 />
       <Container9 /> */}
     </main>
   );
