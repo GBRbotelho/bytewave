@@ -20,8 +20,8 @@ export default function Index() {
       <Container3 />;
       <Container4 />
       <Container5 />
-      {/* <Container6 />
-      <Container7 />
+      <Container6 />
+      {/* <Container7 />
       <Container8 />
       <Container9 /> */}
     </main>
