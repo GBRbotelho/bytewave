@@ -253,7 +253,7 @@
   }
 }
 
-@media (max-width: 950px) {
+@media (max-width: 1000px) {
   .section {
     height: 800px;
     margin-bottom: 57.1px;
@@ -297,7 +297,7 @@
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
   .section {
     height: 1444px;
     margin-bottom: 200px;
