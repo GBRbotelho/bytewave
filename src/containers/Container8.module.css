@@ -217,3 +217,27 @@
     padding: 6px 29px;
   }
 }
+
+@media (max-width: 825px) {
+  .section {
+    height: 240px;
+  }
+
+  .container {
+    width: 90%;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .text p {
+    text-align: center;
+    width: 658px;
+    font-size: 23px;
+  }
+}
+
+@media (max-width: 280px) {
+  .section {
+    height: auto;
+  }
+}
