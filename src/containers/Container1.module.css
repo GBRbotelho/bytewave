@@ -89,29 +89,45 @@
 .img1 {
   width: 280px;
   height: 350px;
-  background-color: #003070;
+  background-color: transparent;
   border-radius: 22px;
+  background-image: url("../assets/imgs/12.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .img2 {
   width: 280px;
   height: 180px;
-  background-color: #003070;
+  background-color: #5271ff;
   border-radius: 22px;
+  background-image: url("../assets/imgs/14.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .img3 {
   width: 280px;
   height: 110px;
-  background-color: #003070;
+  background-color: #5271ff;
   border-radius: 22px;
+  background-image: url("../assets/imgs/15.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .img4 {
   width: 280px;
   height: 420px;
-  background-color: #003070;
+  background-color: #5271ff;
   border-radius: 22px;
+  background-image: url("../assets/imgs/13.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .divBottom {

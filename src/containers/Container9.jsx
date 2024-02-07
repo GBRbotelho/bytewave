@@ -1,11 +1,15 @@
 import React from "react";
 import styles from "./Container9.module.css";
 
+import Logo from "../assets/imgs/Bytewave.png";
+
 export default function Container9() {
   return (
     <section className={styles.section}>
       <div className={styles.container}>
-        <div className={styles.logo}></div>
+        <div className={styles.logo}>
+          <img src={Logo} alt="" />
+        </div>
         <div className={styles.data}>
           <div className={styles.contact}>
             <span>Email</span>

@@ -23,7 +23,7 @@ export default function Index() {
       <Container6 />
       <Container7 />
       <Container8 />
-      {/* <Container9 /> */}
+      <Container9 />
     </main>
   );
 }
