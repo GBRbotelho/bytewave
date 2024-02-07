@@ -11,7 +11,11 @@ export default function Container1() {
         <div className={styles.div1}>
           <div className={styles.cardDiv1}>
             <h1>utilize nossas soluções para expandir sua empresa</h1>
-            <p>Faça agora um orçamento com um dos nossos especialistas</p>
+            <p>
+              Sites personalizados focados em conectar sua empresa com seus
+              clientes, sistemas customizados para resolver as necessidades da
+              sua empresa
+            </p>
             <button>COMEÇAR</button>
           </div>
         </div>
