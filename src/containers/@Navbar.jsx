@@ -80,7 +80,7 @@ export default function Navbar() {
           <li onClick={() => scrollToSection("sobre")}>SOBRE</li>
           <a>
             <div className={styles.button}>
-              <a href={`https://wa.me/19974026227?}`}>
+              <a href="https://wa.me/19974026227">
                 <button>
                   <img src={Wpp} alt="" />
                   ORÇAMENTO

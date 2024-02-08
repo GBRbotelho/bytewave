@@ -12,7 +12,7 @@ export default function Container6() {
           </p>
         </div>
         <div className={styles.button}>
-          <a href={`https://wa.me/19998631040?}`}>
+          <a href="https://wa.me/19974026227">
             <button>Eu quero</button>
           </a>
         </div>
