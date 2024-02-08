@@ -15,7 +15,7 @@ export default function Container9() {
             <span>Email</span>
             <p>Contato@bytewavedev.com.br</p>
             <span>Whatsapp</span>
-            <a href="https://wa.me/19998631040?">
+            <a href="https://wa.me/19998631040">
               <p>+55 19 9 9863-1040</p>
             </a>
           </div>

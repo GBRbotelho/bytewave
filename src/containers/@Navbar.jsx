@@ -78,16 +78,14 @@ export default function Navbar() {
           <li onClick={() => scrollToSection("servicos")}>SERVIÇOS</li>
           <li onClick={() => scrollToSection("clientes")}>CLIENTES</li>
           <li onClick={() => scrollToSection("sobre")}>SOBRE</li>
-          <a>
-            <div className={styles.button}>
-              <a href="https://wa.me/19974026227">
-                <button>
-                  <img src={Wpp} alt="" />
-                  ORÇAMENTO
-                </button>
-              </a>
-            </div>
-          </a>
+          <div className={styles.button}>
+            <a href="https://wa.me/19974026227">
+              <button>
+                <img src={Wpp} alt="" />
+                ORÇAMENTO
+              </button>
+            </a>
+          </div>
         </ul>
       </div>
     </nav>

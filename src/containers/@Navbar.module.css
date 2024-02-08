@@ -93,8 +93,8 @@
   display: flex;
   flex-direction: column;
   list-style: none;
-  align-items: flex-start;
-  justify-content: flex-start;
+  align-items: center;
+  justify-content: center;
   font-size: 2rem;
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
@@ -396,8 +396,6 @@
     display: flex;
     flex-direction: column;
     list-style: none;
-    align-items: center;
-    justify-content: center;
     font-size: 2rem;
     font-weight: bold;
     padding: 0px;
@@ -426,6 +424,9 @@
   .dropdown .button {
     display: block;
     width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .dropdown .button button {
     padding: 20px 20px;
