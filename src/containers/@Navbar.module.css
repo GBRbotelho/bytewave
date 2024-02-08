@@ -25,6 +25,13 @@
 .nav li {
   font-size: 23px;
   color: #ffffff;
+  transition: 0.2s;
+}
+
+.nav li:hover {
+  transform: scale(1.1);
+  color: #5271ff;
+  cursor: pointer;
 }
 
 .logo {
@@ -47,6 +54,12 @@
   color: #ffffff;
   align-items: center;
   gap: 5px;
+  transition: 0.2s;
+}
+
+.button button:hover {
+  transform: scale(1.1);
+  cursor: pointer;
 }
 
 .button button img {

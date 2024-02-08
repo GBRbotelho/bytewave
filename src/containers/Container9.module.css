@@ -44,6 +44,15 @@ p {
   color: #9cafc7;
 }
 
+.data a {
+  text-decoration: none;
+  color: white;
+}
+
+.data a:hover {
+  color: #5271ff;
+}
+
 @media (max-width: 1830px) {
   .section {
     height: 361px;

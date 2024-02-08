@@ -57,6 +57,12 @@
   border-color: #5271ff;
   color: #5271ff;
   font-weight: 600;
+  transition: 0.2s;
+}
+
+.cardDiv1 button:hover {
+  transform: scale(1.1);
+  cursor: pointer;
 }
 
 /* CARD 2 CSS */
@@ -95,6 +101,14 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  transition: 0.2s;
+}
+
+.img1:hover,
+.img2:hover,
+.img3:hover,
+.img4:hover {
+  transform: scale(1.1);
 }
 
 .img2 {
@@ -106,6 +120,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  transition: 0.2s;
 }
 
 .img3 {
@@ -117,6 +132,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  transition: 0.2s;
 }
 
 .img4 {
@@ -128,6 +144,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  transition: 0.2s;
 }
 
 .divBottom {

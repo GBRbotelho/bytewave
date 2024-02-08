@@ -13,15 +13,19 @@ export default function Container9() {
         <div className={styles.data}>
           <div className={styles.contact}>
             <span>Email</span>
-            <p>bytewave@bytewave.com</p>
+            <p>Contato@bytewavedev.com.br</p>
             <span>Whatsapp</span>
-            <p>+55 19 9 9863-1040</p>
+            <a href={`https://wa.me/19998631040?}`}>
+              <p>+55 19 9 9863-1040</p>
+            </a>
           </div>
           <div className={styles.social}>
             <span>Redes sociais</span>
-            <p>Facebook</p>
-            <p>Instagram</p>
-            <p>Linkedin</p>
+            {/* <p>Facebook</p> */}
+            <a href="https://www.instagram.com/bytewavedev/">
+              <p>Instagram</p>
+            </a>
+            {/* <p>Linkedin</p> */}
           </div>
         </div>
       </div>
