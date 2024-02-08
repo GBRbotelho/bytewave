@@ -34,7 +34,7 @@ export default function Container1() {
               </div>
             </div>
             <div className={styles.divBottom}>
-              <img src={icon} alt="" />
+              <img src={icon} alt="Icone Clientes" />
               <h1>mais clientes</h1>
             </div>
           </div>

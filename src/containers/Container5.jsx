@@ -29,7 +29,7 @@ export default function Container5() {
           <div className={styles.titleCard}>
             <div className={styles.contentTitle}>
               <div className={styles.icon}>
-                <img src={icon1} alt="" />
+                <img src={icon1} alt="Icone Ideia" />
               </div>
               <div className={styles.textTitle}>
                 <h2>Ideia</h2>
@@ -52,7 +52,7 @@ export default function Container5() {
             <div className={styles.titleCard2}>
               <div className={styles.contentTitle}>
                 <div className={styles.icon}>
-                  <img src={icon2} alt="" />
+                  <img src={icon2} alt="Icone MVP" />
                 </div>
                 <div className={styles.textTitle}>
                   <h2>MVP</h2>
@@ -71,7 +71,7 @@ export default function Container5() {
             <div className={styles.titleCard2}>
               <div className={styles.contentTitle}>
                 <div className={styles.icon}>
-                  <img src={icon2} alt="" />
+                  <img src={icon2} alt="Icone MVP" />
                 </div>
                 <div className={styles.textTitle}>
                   <h2>MVP</h2>
@@ -87,7 +87,7 @@ export default function Container5() {
           <div className={styles.titleCard}>
             <div className={styles.contentTitle}>
               <div className={styles.icon}>
-                <img src={icon3} alt="" />
+                <img src={icon3} alt="Icone Construção" />
               </div>
               <div className={styles.textTitle}>
                 <h2>Construção</h2>
@@ -109,7 +109,7 @@ export default function Container5() {
             <div className={styles.titleCard2}>
               <div className={styles.contentTitle}>
                 <div className={styles.icon}>
-                  <img src={icon4} alt="" />
+                  <img src={icon4} alt="Icone Entrega" />
                 </div>
                 <div className={styles.textTitle}>
                   <h2>Entrega</h2>
@@ -129,7 +129,7 @@ export default function Container5() {
             <div className={styles.titleCard2}>
               <div className={styles.contentTitle}>
                 <div className={styles.icon}>
-                  <img src={icon4} alt="" />
+                  <img src={icon4} alt="Icone Entrega" />
                 </div>
                 <div className={styles.textTitle}>
                   <h2>Entrega</h2>

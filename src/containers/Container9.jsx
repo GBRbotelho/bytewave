@@ -8,7 +8,7 @@ export default function Container9() {
     <section className={styles.section}>
       <div className={styles.container}>
         <div className={styles.logo}>
-          <img src={Logo} alt="" />
+          <img src={Logo} alt="Logo Bytewave" />
         </div>
         <div className={styles.data}>
           <div className={styles.contact}>

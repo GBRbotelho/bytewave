@@ -15,9 +15,9 @@ export default function Container3() {
         <div className={styles.divCards}>
           <div className={styles.card}>
             <div>
-              <img src={icon1} alt="" />
+              <img src={icon1} alt="Icone Landing Page" />
             </div>
-            <h2>landpages</h2>
+            <h2>Landing Pages</h2>
             <p>
               sites que são focados em vendas especificas desenvolvidos em 1
               única pagina.
@@ -25,7 +25,7 @@ export default function Container3() {
           </div>
           <div className={styles.card}>
             <div>
-              <img src={icon2} alt="" />
+              <img src={icon2} alt="Icone Institucional" />
             </div>
             <h2>Institucionais</h2>
             <p>
@@ -35,7 +35,7 @@ export default function Container3() {
           </div>
           <div className={styles.card}>
             <div>
-              <img src={icon3} alt="" />
+              <img src={icon3} alt="Icone Blogs e Portais" />
             </div>
 
             <h2>Blogs e portais</h2>
@@ -46,7 +46,7 @@ export default function Container3() {
           </div>
           <div className={styles.card}>
             <div>
-              <img src={icon4} alt="" />
+              <img src={icon4} alt="Icone Sistemas" />
             </div>
             <h2>sistemas</h2>
             <p>

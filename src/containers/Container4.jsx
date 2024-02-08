@@ -15,7 +15,7 @@ export default function Container4() {
         <div className={styles.button}>
           <a href="https://wa.me/19974026227">
             <button>
-              <img src={icon} alt="" />
+              <img src={icon} alt="Icone Especialista" />
               conversar com um especialista
             </button>
           </a>

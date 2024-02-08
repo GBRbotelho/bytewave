@@ -49,7 +49,7 @@ export default function Navbar() {
       className={`${styles.nav} ${visible ? styles.visible : styles.hidden}`}
     >
       <div className={styles.logo}>
-        <img src={Logo} alt="" />
+        <img src={Logo} alt="Logo Bytewave" />
       </div>
       <div className={styles.menu}>
         <ul>
@@ -62,13 +62,16 @@ export default function Navbar() {
       <div className={styles.button}>
         <a href="https://wa.me/19974026227">
           <button>
-            <img src={Wpp} alt="" />
+            <img src={Wpp} alt="Icone WhatsApp" />
             ORÇAMENTO
           </button>
         </a>
       </div>
       <div onClick={toggleDropdown} className={styles.hamburger}>
-        <img src={isDropdownOpen ? Close : MenuHamburger}></img>
+        <img
+          alt="Icone Menu Hamburguer e Icone Fechar"
+          src={isDropdownOpen ? Close : MenuHamburger}
+        />
       </div>
       <div
         className={`${styles.dropdown} ${isDropdownOpen ? styles.open : ""}`}
@@ -81,7 +84,7 @@ export default function Navbar() {
           <div className={styles.button}>
             <a href="https://wa.me/19974026227">
               <button>
-                <img src={Wpp} alt="" />
+                <img src={Wpp} alt="Icone WhatsApp" />
                 ORÇAMENTO
               </button>
             </a>
